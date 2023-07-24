@@ -1,0 +1,20 @@
+.weatherContainer {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+.wavesClass {
+  position: static;
+  bottom: 0;
+  z-index: 10;
+}
+
+.weather {
+  width: 100px;
+  height: 100px;
+}
+
+.rain-bors-style {
+  position: relative;
+  top: -270px;
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4145532",
+  "name": "chat-gpt",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3553996",
+      "name": "月亮",
+      "font_class": "yueliang",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "15432422",
+      "name": "太阳",
+      "font_class": "taiyang",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    }
+  ]
+}
