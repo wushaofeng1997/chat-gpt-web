@@ -1,5 +1,5 @@
 // const API_BASE_URL = "http://81.71.142.57:10007/";
-const API_BASE_URL = "https://proxy.selfwu.one/7207";
+const API_BASE_URL = "https://proxy.selfwu.one/";
 
 const TIME_OUT = 5000;
 
