@@ -41,6 +41,7 @@ export const useUpdateStore = create<UpdateStore>()(
 
         try {
           const data = await (await fetch(FETCH_COMMIT_URL)).json();
+          console.log("data",data)
           const remoteCommitTime = data[0].commit.committer.date;
           const remoteId = new Date(remoteCommitTime).getTime().toString();
           set(() => ({
